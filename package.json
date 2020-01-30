@@ -1,0 +1,19 @@
+{
+  "name": "mediaserver",
+  "version": "1.0.0",
+  "description": "small mediaserver to store my files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kantimam/node-media-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kantimam/node-media-server/issues"
+  },
+  "homepage": "https://github.com/kantimam/node-media-server#readme"
+}
